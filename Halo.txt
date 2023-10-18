@@ -1,0 +1,14 @@
+S   T   A   R   B   O   Y
+
+ Kaya = duit.everyday()
+else (cari cuan)
+gelandangan
+} 
+if else {}
+input.error
+        kaya().banyak.duit()
+        console.log()
+
+
+}
+message.channel.send({hasil: banyak duit)
