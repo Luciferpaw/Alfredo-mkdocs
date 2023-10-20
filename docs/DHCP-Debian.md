@@ -1,6 +1,3 @@
-# Welcome to My Mkdocs
-
-
 ## Cara Menginstall Debian (DHCP Server)
 ### Menginstall DHCP Server
 Install Server DHCP Dengan command:
@@ -21,7 +18,7 @@ subnet 192.168.1.0 netmask 255.255.255.0 {
 }
 ```
 Hilangkan setiap tanda # dan edit bagian ip sesuai ketentuan (saya sarankan untuk meniru setinggan ip saya biar tidak bingung)
-![Image title](img/hasil.png)
+![Image title](img/ipaddress.png)
 ### Konfigurasi Ethernet default
 
 Anda perlu menentukan ethernet default yang digunakan oleh server DHCP:

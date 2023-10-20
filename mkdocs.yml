@@ -1,9 +1,8 @@
 site_name: Alfredo-Project
 theme:
   features:
-    plugins:
     - content.code.copy
-  logo: img/img.png
+  logo: img/devil.jpg
   name: material
   palette:
     primary: Pink
@@ -12,3 +11,6 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/Luciferpaw/Alfredo-mkdocs
+      
+markdown_extensions:
+    - attr_list
